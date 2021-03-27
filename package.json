@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "./node_modules/.bin/eslint src --fix",
+    "lint": "./node_modules/.bin/eslint src --fix --max-warnings 0",
     "prepare": "husky install"
   },
   "lint-staged":{
