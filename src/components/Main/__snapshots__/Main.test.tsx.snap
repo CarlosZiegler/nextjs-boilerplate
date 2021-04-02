@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`loads items eventually loads items eventually 1`] = `
+<main>
+  <h1>
+    React Avançado
+  </h1>
+</main>
+`
+
+exports[
+  `loads items eventually loads items eventually: 
+      <main>
+        <h1>
+          React Avançado
+        </h1>
+      </main>
+     1`
+] = `
+<main>
+  <h1>
+    React Avançado
+  </h1>
+</main>
+`
