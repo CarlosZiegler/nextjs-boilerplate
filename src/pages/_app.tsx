@@ -11,6 +11,8 @@ function App({ Component, pageProps }: AppProps) {
         <title>React Avancado - Boilerplate</title>
         <link rel="shortcut icon" href="/img/favicon.ico" />
         <link rel="apple-touch-icon" href="/img/favicon.ico" />
+        <link rel="manifest" href="/manifest.json" />
+        <meta name="theme-color" content="#06092b" />
         <meta
           name="description"
           content=" A simple project starter to work with typescript, React, NextJs and Styled Components"
